@@ -1,2 +1,3 @@
 # HSL_Bibliometrics-analysis
-A rep for working piplines in bibliometics analysis
+A rep of working pipline code for bibliometics analysis at UNC_HSL
+
