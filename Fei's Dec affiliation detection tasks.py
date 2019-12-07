@@ -4,10 +4,10 @@ import json
 import re
 import csv
 from .utils import *
-'''
+"""
 Extract the pubmed id and doi of the articles with missing affiliation and by targeted affiliations 
 12/4/2019
-'''
+"""
 
 target_uni = ["Johns Hopkins University", 
               "Duke University", 
@@ -19,14 +19,15 @@ target_uni = ["Johns Hopkins University",
 pubmed_dic  = pp.parse_medline_xml(path, author_list=True)  # here path is the xml file path, a placeholder here
 #print(json.dumps(pubmed_dic, indent = 4))  #explore the parsed data if needed
 
-'''
+"""
 Basic idea:
 Medline xml in, through pmc search and process pmc_oa_xml
 
 12/7: 
 aff reference id is not consistent and all pmcids are not captured 
 Here show two types of oa xml formats https://www.ncbi.nlm.nih.gov/pmc/pmcdoc/tagging-guidelines/article/style.html
-'''
+"""
+
 miss_affi_article_info = []
 target_affi_article_info = []
 artcile_count = len(pubmed_dic)
