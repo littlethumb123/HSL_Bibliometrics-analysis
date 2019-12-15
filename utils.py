@@ -6,7 +6,8 @@ Entrez.email = "poppincorngofurther@gmail.com"
 
 def retrieve_affil(pmcid):
     '''
-    This is just processing single article. 
+    This is for retrieve lacking author information in pubmed xml, from pubmed central databases. 
+    Noted that it is just for processing single article. 
     
     para: input the pubmed central id of the article which miss affiliation information
     return: return a dictionary, e.g., 
