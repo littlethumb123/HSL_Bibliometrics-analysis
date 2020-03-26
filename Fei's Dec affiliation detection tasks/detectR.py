@@ -69,6 +69,11 @@ while 1:
         redo_id = error_id
 
 # find R with regex
+no_AD = []  # get pmcid that has no author info
+no_R = []   # get pmcid that has no R used
+no_unc = [] # get pmcid that is not UNC authored
+error = []  # get pmcid with errors
+
 for rec in tqdm(rec_list):
     pmc = rec.get('PMC')
     try:
