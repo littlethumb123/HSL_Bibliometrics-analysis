@@ -1,0 +1,1669 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">BMC Anesthesiol</journal-id>
+      <journal-title>BMC Anesthesiology</journal-title>
+      <issn pub-type="epub">1471-2253</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">12964947</article-id>
+      <article-id pub-id-type="pmc">212403</article-id>
+      <article-id pub-id-type="publisher-id">1471-2253-3-4</article-id>
+      <article-id pub-id-type="doi">10.1186/1471-2253-3-4</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Single-dose oral naproxen for acute postoperative pain: a quantitative systematic review</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="A1" contrib-type="author">
+          <name>
+            <surname>Mason</surname>
+            <given-names>Lorna</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>lorna.mason@pru.ox.ac.uk</email>
+        </contrib>
+        <contrib id="A2" contrib-type="author">
+          <name>
+            <surname>Edwards</surname>
+            <given-names>Jayne E</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>jayne.edwards@pru.ox.ac.uk</email>
+        </contrib>
+        <contrib id="A3" corresp="yes" contrib-type="author">
+          <name>
+            <surname>Moore</surname>
+            <given-names>R Andrew</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>andrew.moore@pru.ox.ac.uk</email>
+        </contrib>
+        <contrib id="A4" contrib-type="author">
+          <name>
+            <surname>McQuay</surname>
+            <given-names>Henry J</given-names>
+          </name>
+          <xref ref-type="aff" rid="I1">1</xref>
+          <email>henry.mcquay@pru.ox.ac.uk</email>
+        </contrib>
+      </contrib-group>
+      <aff id="I1"><label>1</label>Pain Research and the Nuffield Department of Anaesthetics, University of Oxford, Oxford Radcliffe Hospital, The Churchill, Headington, Oxford, OX3 7LJ, UK</aff>
+      <pub-date pub-type="collection">
+        <year>2003</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>10</day>
+        <month>9</month>
+        <year>2003</year>
+      </pub-date>
+      <volume>3</volume>
+      <fpage>4</fpage>
+      <lpage>4</lpage>
+      <ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2253/3/4"/>
+      <history>
+        <date date-type="received">
+          <day>6</day>
+          <month>3</month>
+          <year>2003</year>
+        </date>
+        <date date-type="accepted">
+          <day>10</day>
+          <month>9</month>
+          <year>2003</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2003 Mason et al; licensee BioMed Central Ltd. This is an Open Access article: verbatim copying and redistribution of this article are permitted in all media for any purpose, provided this notice is preserved along with the article's original URL.</copyright-statement>
+        <copyright-year>2003</copyright-year>
+        <copyright-holder>Mason et al; licensee BioMed Central Ltd. This is an Open Access article: verbatim copying and redistribution of this article are permitted in all media for any purpose, provided this notice is preserved along with the article's original URL.</copyright-holder>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background</title>
+          <p>Naproxen and naproxen sodium are non-steroidal anti-inflammatory drugs used in a variety of painful conditions, including the treatment of postoperative pain. This review aims to assess the efficacy, safety and duration of action of a single oral dose of naproxen/naproxen sodium for moderate to severe acute postoperative pain in adults, compared with placebo.</p>
+        </sec>
+        <sec sec-type="methods">
+          <title>Methods</title>
+          <p>The Cochrane Library (issue 4 2002), EMBASE, PubMed, MEDLINE and an in-house database were searched for randomised, double blind, placebo controlled trials of a single dose of orally administered naproxen or naproxen sodium in adults with acute postoperative pain. Pain relief or pain intensity data were extracted and converted into dichotomous information to give the number of patients with at least 50% pain relief over 4 to 6 hours. Relative benefit and number-needed-to-treat were then calculated. The percentage of patients with any adverse event, number-needed-to-harm, and time to remedication were also calculated.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>Ten trials with 996 patients in met the inclusion criteria. Six trials compared naproxen sodium 550 mg (252 patients) with placebo (248 patients); the NNT for at least 50% pain relief over six hours was 2.6 (95% confidence interval 2.2 to 3.2). There was no significant difference between the number of patients experiencing any adverse event on treatment compared with placebo. Weighted mean time to remedication was 7.6 hours for naproxen sodium 550 mg (206 patients) and 2.6 hours for placebo (205 patients). Four other trials used lower doses.</p>
+        </sec>
+        <sec>
+          <title>Conclusion</title>
+          <p>A single oral dose of naproxen sodium 550 mg is an effective analgesic in the treatment of acute postoperative pain. A low incidence of adverse events was found, although these were not reported consistently.</p>
+        </sec>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>Background</title>
+      <p>Naproxen and naproxen sodium are non-steroidal anti-inflammatory drugs (NSAIDs) that inhibit prostaglandin synthesis [<xref ref-type="bibr" rid="B1">1</xref>]. Naproxen is a derivative of propionic acid and naproxen sodium is the sodium salt. Naproxen sodium 550 mg is equivalent to 500 mg of naproxen [<xref ref-type="bibr" rid="B2">2</xref>].</p>
+      <p>Naproxen is clinically effective in patients with postoperative pain [<xref ref-type="bibr" rid="B3">3</xref>]. The postoperative pain period is often dominated by the need to find effective ways of blocking the inflammatory reaction and relieving pain [<xref ref-type="bibr" rid="B4">4</xref>]. In one US study, postsurgical pain was the leading cause of concern in 57% of patients before surgery [<xref ref-type="bibr" rid="B5">5</xref>]. This concern is not misplaced. A survey of 3000 newly discharged patients (surgical and medical) in UK hospitals showed that 87% had moderate to severe pain in hospital, and 33% had pain that was present all or most of the time [<xref ref-type="bibr" rid="B6">6</xref>]. A recent, extensive review of postoperative pain management found that severe pain, and poor or fair pain relief, was experienced by almost one in five hospital patients [<xref ref-type="bibr" rid="B7">7</xref>].</p>
+      <p>Specific data for the frequency of naproxen administration in postoperative pain are unavailable. However in England in 2002 there were over 1.2 million prescriptions for oral naproxen and naproxen sodium in primary care [<xref ref-type="bibr" rid="B8">8</xref>]. The recommended daily dose of naproxen is 500 mg or 1000 mg [<xref ref-type="bibr" rid="B9">9</xref>].</p>
+      <p>The use of conventional NSAIDs has been associated with upper gastrointestinal bleeding and perforation, acute liver injury, acute renal injury, and heart failure [<xref ref-type="bibr" rid="B10">10</xref>]. Complications are more likely to occur with chronic use and NSAIDs generally present fewer risks if used short term [<xref ref-type="bibr" rid="B11">11</xref>]. There is some evidence that naproxen may reduce the risk of acute myocardial infarction [<xref ref-type="bibr" rid="B12">12</xref>-<xref ref-type="bibr" rid="B14">14</xref>].</p>
+      <p>Estimates of relative benefit and NNT (number-needed-to-treat) can be derived from pain data [<xref ref-type="bibr" rid="B15">15</xref>]. The NNT is the number of patients that need to be treated for one patient to benefit from the active treatment who would not have benefited from placebo. NNTs allows indirect comparisons of different analgesics by looking at relative efficacy, which are usually just as good as direct comparisons between different interventions [<xref ref-type="bibr" rid="B16">16</xref>].</p>
+      <p>Meta-analysis of individual trials is useful because it can help to reduce the effect that chance plays on the final result, giving a more precise estimate of drug efficacy than looking at individual clinical trials alone [<xref ref-type="bibr" rid="B17">17</xref>,<xref ref-type="bibr" rid="B18">18</xref>]. It does this by combining data from trials that are clinically homogeneous, and reach a certain standard of trial design; randomisation, blinding and placebo control are important factors for reducing bias and chance effects [<xref ref-type="bibr" rid="B19">19</xref>]. Inclusion of reports of low quality in meta-analysis is likely to give misleading results [<xref ref-type="bibr" rid="B20">20</xref>], and therefore assessments of report quality are important for determining whether trials should be included or excluded.</p>
+      <p>In acute pain trials the outcome most often reported is total pain relief (TOTPAR) or summed pain intensity difference (SPID) over the four to six hours in which the studies are usually conducted. These were therefore the primary outcomes of interest, together with any information on time to remedication and adverse events, of a single dose of oral naproxen/naproxen sodium over 4 to 6 hours in the treatment of acute postoperative pain, from meta-analysis of randomised, double blind, placebo controlled clinical trials.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <p>Relevant studies were sought regardless of language, publication type or publication status. The electronic databases used were The Cochrane Library (Issue 4 2002), all years and all databases; MEDLINE and PreMedline, all years from 1966 to December 2002; EMBASE, all years from 1980 to December 2002 and PubMed, all years from 1966 to December 2002. Since 1996 hand searching of journals has been undertaken by part of the Cochrane Collaboration. An in-house database containing hand searched copies of randomised controlled trials in pain for the years 1954 to 1995 [<xref ref-type="bibr" rid="B21">21</xref>], together with unpublished trials held in-house containing individual patient data, were also searched. Reference lists of retrieved articles were searched. Abstracts were not sought. Pharmaceutical companies were not contacted.</p>
+      <p>The search strategy contained naproxen and "naproxen sodium", together with registered brand names [<xref ref-type="bibr" rid="B2">2</xref>]. Full details of the search strategy can be found in <xref ref-type="supplementary-material" rid="S1">Additional File 1</xref>. Potential trials were assessed by at least two reviewers from abstracts retrieved in the search. If insufficient information was given to determine if a trial should be included, or if the abstract was not present, the complete paper was located and assessed.</p>
+      <p>Studies were included if they were randomised, double blind, placebo controlled clinical trials in which a single oral dose of naproxen (or naproxen sodium) and a matched placebo were administered to patients experiencing moderate to severe baseline pain, following a surgical procedure. Trials had to state patient reported pain relief or pain intensity over 4 to 6 hours, measured using validated pain scales. These could be either, <italic>1. </italic>a five-point categorical pain relief (PR) scale with standard or comparable wording (none, slight, moderate, good, complete), <italic>2. </italic>a four-point categorical pain intensity (PI) scale (none, mild, moderate, severe), <italic>3. </italic>a 10 cm visual analogue scale (VAS) for pain relief or pain intensity. Global evaluations of patient reported pain relief over 4 to 6 hours were also considered acceptable, if measured on a standard five-point scale.</p>
+      <p>For each potentially relevant trial, a quality assessment scale was used to consider if it should be included in the review. This employs a validated three item scale with a maximum quality score of five [<xref ref-type="bibr" rid="B22">22</xref>]. A minimum of two points (for randomisation and double blinding) were required for a study to be included. Quality assessments were made independently by at least two reviewers and disputes settled by discussion between all reviewers.</p>
+      <p>The number of patients randomised into each treatment group (intention to treat) was used in the efficacy analysis. Mean TOTPAR (total pain relief) or mean SPID (summed pain intensity difference) over 4 to 6 hours were either extracted, or calculated from pain data within each trial. These were converted into %maxTOTPAR or %maxSPID (the percentage of the maximum possible total pain relief or summed pain intensity), using verified equations [<xref ref-type="bibr" rid="B23">23</xref>-<xref ref-type="bibr" rid="B26">26</xref>]. These data were used to calculate the number of patients in each trial with at least 50% pain relief for both active treatment and placebo. From this, NNTs were calculated with 95% confidence intervals [<xref ref-type="bibr" rid="B27">27</xref>]. Relative benefit and relative risk estimates with 95% confidence intervals were calculated using the fixed effects model [<xref ref-type="bibr" rid="B28">28</xref>]. A statistically significant benefit of the active treatment over placebo was assumed when the lower limit of the 95% confidence interval (CI) of the relative benefit was greater than one. A statistically significant benefit of placebo over active treatment was assumed when the upper limit of the 95% CI was less than one.</p>
+      <p>Homogeneity of trials was assessed visually [<xref ref-type="bibr" rid="B29">29</xref>] because heterogeneity tests have been shown to be unhelpful [<xref ref-type="bibr" rid="B30">30</xref>,<xref ref-type="bibr" rid="B31">31</xref>]. Funnel plots were not used to assess publication bias as these have also been shown to be unhelpful [<xref ref-type="bibr" rid="B32">32</xref>,<xref ref-type="bibr" rid="B33">33</xref>]. To determine if there was a significant difference between NNTs for different doses of active treatment, or between NNTs for equivalent doses of naproxen and naproxen sodium, the z test [<xref ref-type="bibr" rid="B34">34</xref>] was used.</p>
+      <p>Secondary outcomes were extracted in those included papers reporting them. These were (i) number of patients remedicating following the initial dose, (ii) mean or median time to remedication, (iii) reports of any adverse event, (iv) reports of particular adverse events such as headache or vomiting, and (v) reasons for patient discontinuation or withdrawal. Weighted time to remedication was calculated as follows. For each trial, the number of patients taking active treatment was multiplied by the percentage remedicating by 12 hours. These values were summed and divided by the total number of patients taking active treatment from all trials using remedication as an outcome. Number-needed-to-harm (NNH) and relative risk were calculated for the number of patients in each treatment group reporting any adverse event, and for specific events such as headache, dizziness, drowsiness <italic>etc</italic>, in the same way as for NNTs. All calculations were performed in Microsoft Excel X for the Macintosh. QUOROM guidelines were followed.</p>
+    </sec>
+    <sec>
+      <title>Results</title>
+      <p>Fifty-nine potential papers were identified from the search. One of these [<xref ref-type="bibr" rid="B35">35</xref>] could not be obtained from the British Library. Forty-eight trials were excluded for at least one of the following reasons. Thirty-one did not use placebo, seven had no 4 to 6 hour data, six did not measure baseline pain or did not have moderate to severe baseline pain, six had no extractable analgesic efficacy data, six were not double blind, two used inappropriate pain scales and one was not randomised. Full references and reasons for exclusion can be seen in <xref ref-type="supplementary-material" rid="S2">Additional File 2</xref>.</p>
+      <p>Ten studies [<xref ref-type="bibr" rid="B1">1</xref>,<xref ref-type="bibr" rid="B36">36</xref>-<xref ref-type="bibr" rid="B42">42</xref>] containing information from a total of 996 patients met the selection criteria and were included in the analysis. Two of the included studies were currently unpublished, in which naproxen sodium 550 mg was used as an active comparator in acute dental pain studies of rofecoxib [Merck Research Laboratories, unpublished studies, 1997]. In the 10 trials 582 patients received active treatment (505 naproxen sodium) and 414 received placebo. One paper [<xref ref-type="bibr" rid="B41">41</xref>] reported on two trials conducted at two separate hospitals, using two different doses of active treatment, and was the only included study to use naproxen rather than naproxen sodium. The results from these two clinically homogeneous trials were combined to give a weighted mean TOTPAR for naproxen 200 mg (40 patients), naproxen 400 mg (37 patients), and placebo (40 patients), because the number of patients at hospital two was very small.</p>
+      <p>All trials had a quality score of three or more, but only one had a maximum score of five [<xref ref-type="bibr" rid="B37">37</xref>]. All included studies were of six hours duration or longer. Five trials using naproxen sodium 550 mg provided information on remedication [37, 38, 42, unpublished studies]. These trials were of 12 hours duration or longer.</p>
+      <p>The participants ranged in age from 14 to 72 years old. Six hundred and eighty-two (68%) patients underwent dental surgery, the rest either orthopaedic or general surgery. Full details of the included studies can be found in <xref ref-type="supplementary-material" rid="S3">Additional File 3</xref>.</p>
+      <sec>
+        <title>Efficiacy analysis</title>
+        <p>A summary of analgesic efficacy results for all doses can be seen in Table <xref ref-type="table" rid="T1">1</xref>. The z test showed no significant difference between the NNTs for 550 mg, 400/440 mg and 200/220 mg doses of active treatment.</p>
+        <table-wrap position="float" id="T1">
+          <label>Table 1</label>
+          <caption>
+            <p>Summary of analgesic efficacy results</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <td/>
+                <td/>
+                <td align="center" colspan="2">
+                  <bold>Number of patients with at least 50% pain relief</bold>
+                </td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td/>
+                <td/>
+                <td align="center" colspan="2">
+                  <hr/>
+                </td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td align="left">
+                  <bold>Active treatment and dose (mg)</bold>
+                </td>
+                <td align="center">
+                  <bold>Number of trials</bold>
+                </td>
+                <td align="center">
+                  <bold>Naproxen</bold>
+                </td>
+                <td align="center">
+                  <bold>Placebo</bold>
+                </td>
+                <td align="center">
+                  <bold>Relative benefit (95% CI)</bold>
+                </td>
+                <td align="center">
+                  <bold>NNT (95% CI)</bold>
+                </td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td align="left">Naproxen sodium 550</td>
+                <td align="center">6</td>
+                <td align="center">127/252</td>
+                <td align="center">30/248</td>
+                <td align="center">4.2 (2.9 to 6.0)</td>
+                <td align="center">2.6 (2.2 to 3.2)</td>
+              </tr>
+              <tr>
+                <td align="left">Naproxen sodium/naproxen 440/400</td>
+                <td align="center">3</td>
+                <td align="center">103/210</td>
+                <td align="center">14/124</td>
+                <td align="center">4.8 (2.8 to 8.3)</td>
+                <td align="center">2.7 (2.2 to 3.5)</td>
+              </tr>
+              <tr>
+                <td align="left">Naproxen sodium/naproxen 220/200</td>
+                <td align="center">2</td>
+                <td align="center">54/120</td>
+                <td align="center">13/82</td>
+                <td align="center">2.9 (1.6 to 5.1)</td>
+                <td align="center">3.4 (2.4 to 5.8)</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Naproxen sodium 550 mg v placebo</title>
+        <p>In six trials containing 500 patients, 252 received naproxen sodium 550 mg and 248 received placebo.</p>
+        <p>The mean response rate (percentage of patients with at least 50% pain relief) for naproxen sodium was 50% (127 patients out of 252), ranging from 30% to 72% in individual trials (Figure <xref ref-type="fig" rid="F1">1</xref>). The mean placebo response rate was 12% (30 patients out of 248), ranging from 6% to 19%.</p>
+        <fig position="float" id="F1">
+          <label>Figure 1</label>
+          <caption>
+            <p><bold>L'Abb&#xE9; plot. </bold>Percentage of patients with at least 50% pain relief in placebo controlled clinical trials of naproxen sodium 550 mg. Each circle represents one included trial.</p>
+          </caption>
+          <graphic xlink:href="1471-2253-3-4-1"/>
+        </fig>
+        <p>Naproxen sodium 550 mg was significantly better than placebo with relative benefit 4.2 (2.9 to 6.0). The NNT was 2.6 (2.2 to 3.2) for at least 50% pain relief over six hours in postoperative pain of moderate to severe intensity.</p>
+      </sec>
+      <sec>
+        <title>Naproxen/naproxen sodium 400/440 mg v placebo</title>
+        <p>In three trials containing 334 patients, 210 received active treatment and 124 received placebo. Thirty-seven of those patients on active treatment were given naproxen 400 mg.</p>
+        <p>The mean active response rate was 49% (103 out of 210 patients), ranging from 46% to 53% in individual trials. The mean placebo response rate was 11% (14 out of 124 patients), ranging from 5% to 23%.</p>
+        <p>Active treatment was significantly better than placebo with relative benefit 4.8 (2.8 to 8.3). The NNT was 2.7 (2.2 to 3.5) for at least 50% pain relief over six hours in postoperative pain of moderate to severe intensity.</p>
+        <p>Sensitivity analysis showed no significant difference between NNTs for naproxen sodium 440 mg and naproxen 400 mg.</p>
+      </sec>
+      <sec>
+        <title>Naproxen/naproxen sodium 200/220 mg v placebo</title>
+        <p>In two trials containing 202 patients, 120 received active treatment and 82 received placebo. Forty of those patients on active treatment were given naproxen 200 mg.</p>
+        <p>The mean active response rate was 45% (54 out of 120 patients), ranging from 30% to 53% in individual trials. The mean placebo response rate was 16% (13 out of 82 patients), ranging from 10% to 23%.</p>
+        <p>Active treatment was significantly better than placebo with relative benefit 2.9 (1.6 to 5.1). The NNT was 3.4 (2.4 to 5.8) for at least 50% pain relief over six hours in postoperative pain of moderate to severe intensity.</p>
+        <p>The NNTs for naproxen 200 mg (2.3; 1.8 to 3.5) and naproxen sodium 220 mg (13; 3.7 to no benefit) were different in two trials with 122 and 80 patients respectively.</p>
+      </sec>
+      <sec>
+        <title>Adverse events and withdrawals</title>
+        <p>Eight included studies reported adverse events for single dose data [36&#x2013;40, unpublished studies]. Only five trials using naproxen sodium 550 mg contained sufficient evaluable data to pool results [36&#x2013;38, unpublished studies <xref ref-type="supplementary-material" rid="S3">additional file 3</xref>]. Forty-seven out of 197 patients (24%) given naproxen sodium 550 mg reported at least one adverse event. Fifty-two out of 195 patients (27%) given placebo reported at least one adverse event. There was no significant difference between treatment and placebo, relative risk 0.89 (0.6 to 1.3). One patient given naproxen sodium 440 mg had severe vomiting [<xref ref-type="bibr" rid="B1">1</xref>]. In another trial, seven adverse events were "serious" in patients receiving naproxen sodium 220 mg [<xref ref-type="bibr" rid="B39">39</xref>]. Investigators in both trials did not regard these events as being related to the study medication.</p>
+        <p>Patient withdrawals and exclusions were not reported consistently. Trials often reported the total number of exclusions or withdrawals without stating which treatment groups these referred to. Neither was it clear exactly when withdrawals occurred, <italic>ie</italic>, before assessment of analgesia at 4&#x2013;6 hours, of at some other point before the end of the trial. Four trials did not give specific information for the number of exclusions and patient withdrawals for a single dose of naproxen/naproxen sodium [37, 41, unpublished studies]. Of the remaining six trials, 45 out of 354 patients assigned to treatment with naproxen sodium were reported to have withdrawn or been excluded. The majority of these (40/81) were in one trial using naproxen sodium 220 mg [<xref ref-type="bibr" rid="B39">39</xref>] in which the reasons for discontinuation were not stated. Adverse event related withdrawals for naproxen/naproxen sodium were clearly reported in three trials. These were one report of postoperative vomiting [<xref ref-type="bibr" rid="B1">1</xref>], one report of a headache (not deemed due to study medication by the investigator) [<xref ref-type="bibr" rid="B40">40</xref>], and Reicin <italic>et al</italic>. [<xref ref-type="bibr" rid="B42">42</xref>] reported that two patients out of 55 on naproxen sodium 550 mg and three patients out of 53 on placebo withdrew due to a clinically relevant adverse event on day one of the study.</p>
+      </sec>
+      <sec>
+        <title>Remedication</title>
+        <p>Remedication data were pooled from four trials [37, 42, unpublished studies] to give the percentage remedicating by 12 hours, weighted by the number of patients. This was 63% (114 out of 181 patients) for naproxen sodium 550 mg and 78% (140 out of 180 patients) for placebo. Results from five trials [37, 38, 42, unpublished studies] were pooled to give the mean time to remedication, weighted by the number of patients (Figure <xref ref-type="fig" rid="F2">2</xref>). For naproxen sodium 550 mg this was 7.6 hrs (206 patients), and for placebo it was 2.6 hours (205 patients).</p>
+        <fig position="float" id="F2">
+          <label>Figure 2</label>
+          <caption>
+            <p><bold>Mean time to remedication. </bold>Mean time to remedication (hours) for naproxen sodium 550 mg and placebo in postoperative pain, compared with information on placebo, ibuprofen 400 mg and rofecoxib 50 mg [<xref ref-type="bibr" rid="B46">46</xref>].</p>
+          </caption>
+          <graphic xlink:href="1471-2253-3-4-2"/>
+        </fig>
+      </sec>
+    </sec>
+    <sec>
+      <title>Discussion</title>
+      <p>A single oral dose of 550 mg naproxen sodium has an NNT of 2.6 (2.2 to 3.2) for at least 50% pain relief over six hours in postoperative pain of moderate to severe intensity, compared with placebo. This means that for approximately every three patients given naproxen sodium 550 mg, one would achieve at least a 50% reduction in postoperative pain of moderate to severe intensity who would not have done so if given placebo. The most robust result was for naproxen sodium 550 mg. This analysis contained the most patients and is the most clinically relevant because this is the dose commonly used.</p>
+      <p>For a single oral dose of naproxen/naproxen sodium 400/440 mg the NNT was 2.7 (2.2 to 3.5). For 200/220 mg, the NNT was 3.4 (2.4 to 5.8). Doses of less than 500 mg of naproxen are not commonly used for acute postoperative pain in clinical practice and are therefore of limited clinical value. The results for naproxen/naproxen sodium 200/220 mg and 400/440 mg are also less reliable than for naproxen sodium 550 mg, because these analyses contained fewer trials and fewer patients. Combining studies into a meta-analysis may be better than relying on the results from a single small trial, but meta-analysis based on limited data may still not overcome chance effects [<xref ref-type="bibr" rid="B17">17</xref>].</p>
+      <p>NNTs for 550 mg, 400/440 mg and 200/220 mg were similar, but there was insufficient information from trials using 440 mg doses or less to comment on dose response. No increased effect with increased dose was found, but on the limited information available it is not possible to know whether there is no response or whether any response is shallow or has been missed.</p>
+      <p>The relative efficacy of over 50 analgesics in acute postoperative pain has been compiled <ext-link ext-link-type="uri" xlink:href="http://www.jr2.ox.ac.uk/bandolier/booth/painpag/acutrev/analgesics/leagtab.html"/> Published versions can be found in Edwards [<xref ref-type="bibr" rid="B43">43</xref>], Collins [<xref ref-type="bibr" rid="B44">44</xref>] and Moore [<xref ref-type="bibr" rid="B45">45</xref>]. The number of patients in each meta-analysis from which NNTs have been derived varies considerably, and should be taken into account when comparing NNTs. A low NNT with a narrow confidence interval suggests greater efficacy, and the greater the number of patients in the meta-analysis the more robust the NNT.</p>
+      <p>An NNT of 2.6 for naproxen sodium 550 mg is slightly higher (worse) than ibuprofen 400 mg (2.4; 2.3 to 2.6), but lower (better) than paracetamol 1000 mg (3.8; 3.4 to 4.4) and intramuscular morphine 10 mg (2.9; 2.6 to 3.6). This meta-analysis did not compare naproxen/naproxen sodium directly with other analgesics. However, indirect comparisons such as these are still valid. A recent study of 44 meta-analyses has shown that in most cases, results of adjusted indirect comparisons are not significantly different from those of direct comparisons, with validity of indirect comparisons depending on the internal validity and similarity of the individual trials [<xref ref-type="bibr" rid="B16">16</xref>].</p>
+      <p>The mean time to remedication for naproxen sodium 550 mg was 7.6 hours (Figure <xref ref-type="fig" rid="F2">2</xref>). This is similar to that of ibuprofen 400 mg at 7.4 hours, but shorter than for cox-2 selective inhibitors like rofecoxib 50 mg, at 13.6 hours, in mainly dental pain trials [<xref ref-type="bibr" rid="B46">46</xref>]. Remedication in trials is a useful marker for determining how long adequate analgesia lasts.</p>
+      <p>The major efficacy outcomes were total pain relief over 4&#x2013;6 hours (TOTPAR), and time to remedication in trials conducted after third molar extraction and after other types of surgery. Seven of 10 trials giving pain relief data, and three of four giving time to remedication, were performed in third molar extraction studies. Analysis has shown that NNTs calculated for the outcome of half pain relief over 4&#x2013;6 hours are the same in both these surgical categories, in circumstances where oral analgesics were appropriate [<xref ref-type="bibr" rid="B47">47</xref>]. Whether time to remedication is similar after dental extraction and other postoperative circumstances is not yet known.</p>
+      <p>There was no significant difference between the number of patients reporting any adverse event for naproxen/naproxen sodium compared with placebo. Trials reporting them did so less rigorously than for efficacy data and the methodology for reporting adverse events varied between studies. This is not unusual for adverse event reporting in acute pain studies [<xref ref-type="bibr" rid="B48">48</xref>]. Withdrawals and exclusions were reported even less well than adverse events.</p>
+    </sec>
+    <sec>
+      <title>Conclusions</title>
+      <p>Naproxen sodium 550 mg is an effective analgesic in adults with acute, moderate to severe postoperative pain. Its NNT compares favourably with other analgesics. A low incidence of adverse events was found but these were poorly reported. Better reporting of information in trials, particularly for adverse events, withdrawals and exclusions, is required.</p>
+    </sec>
+    <sec>
+      <title>Competing interests</title>
+      <p>RAM has been a consultant for MSD. RAM &amp; HJM have consulted for various pharmaceutical companies. RAM, HJM &amp; JE have received lecture fees from pharmaceutical companies related to analgesics and other healthcare interventions. All authors have received research support from charities, government and industry sources at various times, but no such support was received for this work. No author has any direct stock holding in any pharmaceutical company.</p>
+    </sec>
+    <sec>
+      <title>Authors' contributions</title>
+      <p>LM was involved with searching, data extraction, quality scoring, analysis and writing. JE was involved with searching, data extraction, analysis, quality scoring and writing. HJM was involved in writing. RAM was involved in data extraction, analysis and writing.</p>
+    </sec>
+    <sec>
+      <title>Pre-publication history</title>
+      <p>The pre-publication history for this paper can be accessed here:</p>
+      <p>
+        <ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/1471-2253/3/4/prepub"/>
+      </p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary Material</title>
+      <supplementary-material content-type="local-data" id="S1">
+        <caption>
+          <title>Additional File 1</title>
+          <p>Search strategy</p>
+        </caption>
+        <media xlink:href="1471-2253-3-4-S1.pdf" mimetype="application" mime-subtype="pdf">
+          <caption>
+            <p>Click here for file</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="S2">
+        <caption>
+          <title>Additional File 2</title>
+          <p>Excluded studies</p>
+        </caption>
+        <media xlink:href="1471-2253-3-4-S2.pdf" mimetype="application" mime-subtype="pdf">
+          <caption>
+            <p>Click here for file</p>
+          </caption>
+        </media>
+      </supplementary-material>
+      <supplementary-material content-type="local-data" id="S3">
+        <caption>
+          <title>Additional File 3</title>
+          <p>Table of included studies</p>
+        </caption>
+        <media xlink:href="1471-2253-3-4-S3.pdf" mimetype="application" mime-subtype="pdf">
+          <caption>
+            <p>Click here for file</p>
+          </caption>
+        </media>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <sec>
+        <title>Acknowledgements</title>
+        <p>The work was supported by Pain Research Funds, supported by the Oxford Pain Relief Trust. Merck Research Laboratories, Rahway, NJ, USA, supplied unpublished data.</p>
+      </sec>
+    </ack>
+    <ref-list>
+      <ref id="B1">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fricke</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Halladay</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Francisco</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficacy and safety of naproxen sodium and ibuprofen for pain relief after oral surgery</article-title>
+          <source>Current Therapeutic Research</source>
+          <year>1993</year>
+          <volume>54</volume>
+          <fpage>619</fpage>
+          <lpage>27</lpage>
+        </citation>
+      </ref>
+      <ref id="B2">
+        <citation citation-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Parfitt K</surname>
+            </name>
+          </person-group>
+          <article-title>Analgesics Anti-inflammatory Drugs and Antipyretics</article-title>
+          <source>Martindale, The Complete Drug Reference</source>
+          <year>1999</year>
+          <edition>32</edition>
+          <publisher-name>London, Pharmaceutical Press</publisher-name>
+          <fpage>61</fpage>
+          <lpage>62</lpage>
+        </citation>
+      </ref>
+      <ref id="B3">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rasmussen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Thomsen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Madsen</surname>
+              <given-names>SN</given-names>
+            </name>
+            <name>
+              <surname>Rasmussen</surname>
+              <given-names>PJS</given-names>
+            </name>
+            <name>
+              <surname>Simonsen</surname>
+              <given-names>OH</given-names>
+            </name>
+          </person-group>
+          <article-title>The clinical effect of naproxen sodium after arthroscopy of the knee: a randomised, double blind, prospective study</article-title>
+          <source>The Journal of Arthroscopic and Related Surgery</source>
+          <year>1993</year>
+          <volume>9</volume>
+          <fpage>375</fpage>
+          <lpage>380</lpage>
+          <pub-id pub-id-type="pmid">8216567</pub-id>
+        </citation>
+      </ref>
+      <ref id="B4">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Salvato</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Boldani</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sinion</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Tiaprofenic acid in the acute treatment of postsurgical pain in dentistry</article-title>
+          <source>Current Therapeutic Research</source>
+          <year>1992</year>
+          <volume>51</volume>
+          <fpage>937</fpage>
+          <lpage>945</lpage>
+        </citation>
+      </ref>
+      <ref id="B5">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Warfield</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Kahn</surname>
+              <given-names>CH</given-names>
+            </name>
+          </person-group>
+          <article-title>Acute pain management. Programs in US hospitals and experiences and attitudes among US adults</article-title>
+          <source>Anaesthesiology</source>
+          <year>1995</year>
+          <volume>83</volume>
+          <fpage>1090</fpage>
+          <lpage>1094</lpage>
+          <pub-id pub-id-type="doi">10.1097/00000542-199511000-00023</pub-id>
+        </citation>
+      </ref>
+      <ref id="B6">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bruster</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Jarman</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Bosanquet</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Weston</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Erens</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Delbanco</surname>
+              <given-names>TL</given-names>
+            </name>
+          </person-group>
+          <article-title>National survey of hospital patients</article-title>
+          <source>British Medical Journal</source>
+          <year>1994</year>
+          <volume>309</volume>
+          <fpage>1542</fpage>
+          <lpage>1546</lpage>
+          <pub-id pub-id-type="pmid">7819893</pub-id>
+        </citation>
+      </ref>
+      <ref id="B7">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dolin</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Cashman</surname>
+              <given-names>JN</given-names>
+            </name>
+            <name>
+              <surname>Bland</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <article-title>Effectiveness of acute postoperative pain management: I. Evidence from published data</article-title>
+          <source>British Journal of Anaesthesia</source>
+          <year>2002</year>
+          <volume>89</volume>
+          <fpage>409</fpage>
+          <lpage>423</lpage>
+          <pub-id pub-id-type="pmid">12402719</pub-id>
+          <pub-id pub-id-type="doi">10.1093/bja/aef207</pub-id>
+        </citation>
+      </ref>
+      <ref id="B8">
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <collab>Government Statistical Service</collab>
+            <collab>Department of Health</collab>
+          </person-group>
+          <article-title>Prescription Cost Analysis</article-title>
+          <source>England</source>
+          <year>2002</year>
+          <ext-link ext-link-type="uri" xlink:href="http://www.doh.gov.uk/prescriptionstatistics/index.htm"/>
+        </citation>
+      </ref>
+      <ref id="B9">
+        <citation citation-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Mehta DK</surname>
+            </name>
+          </person-group>
+          <article-title>Non-steroidal anti-inflammatory drugs</article-title>
+          <source>British National Formulary</source>
+          <year>2002</year>
+          <edition>43</edition>
+          <publisher-name>UK, British Medical Association</publisher-name>
+          <fpage>482</fpage>
+        </citation>
+      </ref>
+      <ref id="B10">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hernandez-Diaz</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Garcia-Rodriguez</surname>
+              <given-names>LA</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiologic assessment of the safety of conventional nonsteroidal anti-inflammatory drugs</article-title>
+          <source>American Journal of Medicine</source>
+          <year>2001</year>
+          <volume>110</volume>
+          <fpage>20S</fpage>
+          <lpage>7S</lpage>
+          <pub-id pub-id-type="pmid">11173046</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0002-9343(00)00682-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B11">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rapoport</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <article-title>The safety of NSAIDs and related drugs for the management of acute pain: maximising benefits and minimising risks</article-title>
+          <source>Cancer Control</source>
+          <year>1999</year>
+          <volume>6</volume>
+          <fpage>18</fpage>
+          <lpage>21</lpage>
+          <pub-id pub-id-type="pmid">12118235</pub-id>
+        </citation>
+      </ref>
+      <ref id="B12">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Solomon</surname>
+              <given-names>DH</given-names>
+            </name>
+            <name>
+              <surname>Glynn</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Levin</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Avorn</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Nonsteroidal anti-inflammatory drug use and acute myocardial infarction</article-title>
+          <source>Archives of Internal Medicine</source>
+          <year>2002</year>
+          <volume>162</volume>
+          <fpage>1099</fpage>
+          <lpage>1104</lpage>
+          <pub-id pub-id-type="pmid">12020178</pub-id>
+          <pub-id pub-id-type="doi">10.1001/archinte.162.10.1099</pub-id>
+        </citation>
+      </ref>
+      <ref id="B13">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rahme</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Pilote</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>LeLorier</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Association between naproxen use and protection against acute myocardial infarction</article-title>
+          <source>Archives of Internal Medicine</source>
+          <year>2002</year>
+          <volume>162</volume>
+          <fpage>1111</fpage>
+          <lpage>1115</lpage>
+          <pub-id pub-id-type="pmid">12020180</pub-id>
+          <pub-id pub-id-type="doi">10.1001/archinte.162.10.1111</pub-id>
+        </citation>
+      </ref>
+      <ref id="B14">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Watson</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Rhodes</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Guesss</surname>
+              <given-names>HA</given-names>
+            </name>
+          </person-group>
+          <article-title>Lower risk of thromboembolic cardiovascular events with naproxen among patients with rheumatoid arthritis</article-title>
+          <source>Archives of Internal Medicine</source>
+          <year>2002</year>
+          <volume>162</volume>
+          <fpage>1105</fpage>
+          <lpage>1110</lpage>
+          <pub-id pub-id-type="pmid">12020179</pub-id>
+          <pub-id pub-id-type="doi">10.1001/archinte.162.10.1105</pub-id>
+        </citation>
+      </ref>
+      <ref id="B15">
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McQuay</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Combining data and Interpreting the Results</article-title>
+          <source>An evidence-based resource for pain relief, Oxford, Oxford University Press</source>
+          <year>1998</year>
+          <fpage>35</fpage>
+          <lpage>37</lpage>
+        </citation>
+      </ref>
+      <ref id="B16">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Song</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Altman</surname>
+              <given-names>DG</given-names>
+            </name>
+            <name>
+              <surname>Glenny</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Deeks</surname>
+              <given-names>JJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Validity of indirect comparisons for estimating efficacy of competing interventions: empirical evidence from published meta-analyses</article-title>
+          <source>British Medical Journal</source>
+          <year>2003</year>
+          <volume>326</volume>
+          <fpage>472</fpage>
+          <lpage>475</lpage>
+          <pub-id pub-id-type="pmid">12609941</pub-id>
+          <pub-id pub-id-type="doi">10.1136/bmj.326.7387.472</pub-id>
+        </citation>
+      </ref>
+      <ref id="B17">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moore</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Gavaghan</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Tramer</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Collins</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>McQuay</surname>
+              <given-names>HJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Size is everything-large amounts of information are needed to overcome random effects in estimating direction and magnitude of treatment effects</article-title>
+          <source>Pain</source>
+          <year>1998</year>
+          <volume>78</volume>
+          <fpage>209</fpage>
+          <lpage>216</lpage>
+          <pub-id pub-id-type="pmid">9870574</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0304-3959(98)00140-7</pub-id>
+        </citation>
+      </ref>
+      <ref id="B18">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ioannidis</surname>
+              <given-names>JPA</given-names>
+            </name>
+            <name>
+              <surname>Lau</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Evolution of treatment effects over time: Empirical Insight From recursive cumulative meta-analyses</article-title>
+          <source>PNAS</source>
+          <year>2001</year>
+          <volume>98</volume>
+          <fpage>831</fpage>
+          <lpage>836</lpage>
+          <pub-id pub-id-type="pmid">11158556</pub-id>
+          <pub-id pub-id-type="doi">10.1073/pnas.021529998</pub-id>
+        </citation>
+      </ref>
+      <ref id="B19">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kalso</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title>Five Easy pieces on evidence based medicine (2)</article-title>
+          <source>European Journal of Pain</source>
+          <year>2000</year>
+          <volume>4</volume>
+          <fpage>321</fpage>
+          <lpage>324</lpage>
+          <pub-id pub-id-type="pmid">10985878</pub-id>
+          <pub-id pub-id-type="doi">10.1053/eujp.2000.0191</pub-id>
+        </citation>
+      </ref>
+      <ref id="B20">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moher</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Cook</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Eastwood</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Olkin</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Rennie</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Stroup</surname>
+              <given-names>DF</given-names>
+            </name>
+          </person-group>
+          <article-title>Improving the quality of meta-analyses of randomised controlled trials: the QUOROM statement</article-title>
+          <source>The Lancet</source>
+          <year>1999</year>
+          <volume>354</volume>
+          <fpage>1896</fpage>
+          <lpage>1900</lpage>
+          <pub-id pub-id-type="pmid">10584742</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(99)04149-5</pub-id>
+        </citation>
+      </ref>
+      <ref id="B21">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jadad</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>Carroll</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>McQuay</surname>
+              <given-names>HJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Developing a database of published reports of randomised clinical trials in pain research</article-title>
+          <source>Pain</source>
+          <year>1996</year>
+          <volume>66</volume>
+          <fpage>239</fpage>
+          <lpage>46</lpage>
+          <pub-id pub-id-type="pmid">8880846</pub-id>
+          <pub-id pub-id-type="doi">10.1016/0304-3959(96)03033-3</pub-id>
+        </citation>
+      </ref>
+      <ref id="B22">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jadad</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>More</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Carroll</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Jenkinson</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Reynolds</surname>
+              <given-names>DJM</given-names>
+            </name>
+            <name>
+              <surname>Gavaghan</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>McQuay</surname>
+              <given-names>HJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Assessing the quality of reports of randomised clinical trials: is blinding necessary?</article-title>
+          <source>Controlled Clinical Trials</source>
+          <year>1996</year>
+          <volume>17</volume>
+          <fpage>1</fpage>
+          <lpage>12</lpage>
+          <pub-id pub-id-type="pmid">8721797</pub-id>
+          <pub-id pub-id-type="doi">10.1016/0197-2456(95)00134-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B23">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moore</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>McQuay</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Gavaghan</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Deriving dichotomous outcome measures from continuous data in randomised controlled trials of analgesics:</article-title>
+          <source>Pain</source>
+          <year>1996</year>
+          <volume>66</volume>
+          <fpage>229</fpage>
+          <lpage>237</lpage>
+          <pub-id pub-id-type="pmid">8880845</pub-id>
+          <pub-id pub-id-type="doi">10.1016/0304-3959(96)03032-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B24">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moore</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>McQuay</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Gavaghan</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Deriving dichotomous outcome measures from continuous data in randomised controlled trials of analgesics: Use of pain intensity and visual analogue scales</article-title>
+          <source>Pain</source>
+          <year>1997</year>
+          <volume>69</volume>
+          <fpage>311</fpage>
+          <lpage>315</lpage>
+          <pub-id pub-id-type="pmid">9085306</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0304-3959(96)03306-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B25">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moore</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>McQuay</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Gavaghan</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Deriving dichotomous outcome measures from continuous data in randomised controlled trials of analgesics: Verification from independent data</article-title>
+          <source>Pain</source>
+          <year>1997</year>
+          <volume>69</volume>
+          <fpage>127</fpage>
+          <lpage>130</lpage>
+          <pub-id pub-id-type="pmid">9060022</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0304-3959(96)03251-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B26">
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cooper</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Max MB, Portenoy RK, Laska EM</surname>
+            </name>
+          </person-group>
+          <article-title>Single-dose analgesic studies: the upside and downside of assay sensitivity</article-title>
+          <source>The design of analgesic clinical trials; Advances in Pain and Research Therapy</source>
+          <year>1991</year>
+          <volume>18</volume>
+          <publisher-name>New York, Raven Press</publisher-name>
+          <fpage>117</fpage>
+          <lpage>124</lpage>
+        </citation>
+      </ref>
+      <ref id="B27">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cook</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Sackett</surname>
+              <given-names>DL</given-names>
+            </name>
+          </person-group>
+          <article-title>The number needed to treat: a clinically useful measure of treatment effect</article-title>
+          <source>British Medical Journal</source>
+          <year>1995</year>
+          <volume>310</volume>
+          <fpage>452</fpage>
+          <lpage>454</lpage>
+          <pub-id pub-id-type="pmid">7873954</pub-id>
+        </citation>
+      </ref>
+      <ref id="B28">
+        <citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morris</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Gardner</surname>
+              <given-names>MJ</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Gardner MJ, Altman DG</surname>
+            </name>
+          </person-group>
+          <article-title>Calculating confidence intervals for relative risk, odds ratios and standardised ratios and rates</article-title>
+          <source>Statistics with confidence &#x2013; confidence intervals and statistical guidelines</source>
+          <year>1995</year>
+          <publisher-name>London, British Medical Journal Books</publisher-name>
+          <fpage>50</fpage>
+          <lpage>63</lpage>
+        </citation>
+      </ref>
+      <ref id="B29">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>L'Abb&#xE9;</surname>
+              <given-names>KA</given-names>
+            </name>
+            <name>
+              <surname>Detsky</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>O'Rourke</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Meta-analysis in clinical research</article-title>
+          <source>Annals of International Medicine</source>
+          <year>1987</year>
+          <volume>107</volume>
+          <fpage>224</fpage>
+          <lpage>233</lpage>
+        </citation>
+      </ref>
+      <ref id="B30">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gavaghan</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>McQuay</surname>
+              <given-names>HJ</given-names>
+            </name>
+          </person-group>
+          <article-title>An evaluation of homogeneity tests in meta-analyses in pain using simulations of individual patient data</article-title>
+          <source>Pain</source>
+          <year>2000</year>
+          <volume>85</volume>
+          <fpage>415</fpage>
+          <lpage>424</lpage>
+          <pub-id pub-id-type="pmid">10781914</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0304-3959(99)00302-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B31">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Higgins</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Deeks</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Altman</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Statistical heterogeneity in systematic reviews of clinical trials: a critical appraisal of guidelines and practice</article-title>
+          <source>Journal of Health Services Research and Policy</source>
+          <year>2002</year>
+          <volume>7</volume>
+          <fpage>51</fpage>
+          <lpage>61</lpage>
+          <pub-id pub-id-type="pmid">11822262</pub-id>
+          <pub-id pub-id-type="doi">10.1258/1355819021927674</pub-id>
+        </citation>
+      </ref>
+      <ref id="B32">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tang</surname>
+              <given-names>J-L</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>JLY</given-names>
+            </name>
+          </person-group>
+          <article-title>Misleading funnel plot for detection of bias in meta-analysis</article-title>
+          <source>Journal of Clinical Epidemiology</source>
+          <year>2000</year>
+          <volume>53</volume>
+          <fpage>477</fpage>
+          <lpage>484</lpage>
+          <pub-id pub-id-type="pmid">10812319</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0895-4356(99)00204-8</pub-id>
+        </citation>
+      </ref>
+      <ref id="B33">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sterne</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Gavaghan</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Egger</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Publication and related bias in meta-analysis: power of statistical tests and prevalence in the literature</article-title>
+          <source>Journal of Clinical Epidemiology</source>
+          <year>2000</year>
+          <volume>53</volume>
+          <fpage>1119</fpage>
+          <lpage>1129</lpage>
+          <pub-id pub-id-type="pmid">11106885</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0895-4356(00)00242-0</pub-id>
+        </citation>
+      </ref>
+      <ref id="B34">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tram&#xE8;r</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Reynolds</surname>
+              <given-names>DJM</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>McQuay</surname>
+              <given-names>HJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Impact of covert duplicate publication on meta-analysis: a case study</article-title>
+          <source>British Medical Journal</source>
+          <year>1997</year>
+          <volume>315</volume>
+          <fpage>635</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">9310564</pub-id>
+        </citation>
+      </ref>
+      <ref id="B35">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Frezza</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bolognesi</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Bernardi</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparison of the action of 3 non-steroidal anti-inflammatory agents in the control of post-operative pain</article-title>
+          <source>Attualita Dentale</source>
+          <year>1985</year>
+          <volume>1</volume>
+          <fpage>40</fpage>
+          <lpage>42</lpage>
+          <pub-id pub-id-type="pmid">3869471</pub-id>
+        </citation>
+      </ref>
+      <ref id="B36">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brown</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Moodie</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Phillips</surname>
+              <given-names>EB</given-names>
+            </name>
+          </person-group>
+          <article-title>Bromfenac sodium, naproxen sodium, and ketorolac in moderate to severe postoperative pain</article-title>
+          <source>Journal of Pharmaceutical Care in Pain and Symptom Control</source>
+          <year>1997</year>
+          <volume>5</volume>
+          <fpage>21</fpage>
+          <lpage>35</lpage>
+        </citation>
+      </ref>
+      <ref id="B37">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Forbes</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Keller</surname>
+              <given-names>CK</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Zeleznock</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Sevelius</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Beaver</surname>
+              <given-names>WT</given-names>
+            </name>
+          </person-group>
+          <article-title>Analgesic effect of naproxen sodium, codeine, a naproxen-codeine combination and aspirin on the postoperative pain of oral surgery</article-title>
+          <source>Pharmacotherapy</source>
+          <year>1986</year>
+          <volume>6</volume>
+          <fpage>211</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">3540871</pub-id>
+        </citation>
+      </ref>
+      <ref id="B38">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gottesdiener</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Mehlisch</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Huntington</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yuan</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Gertz</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Mills</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficacy and tolerability of the specific cyclooxygenase-2 inhibitor DFP compared with naproxen sodium in patients with postoperative dental pain</article-title>
+          <source>Clinical Therapeutics</source>
+          <year>1999</year>
+          <volume>21</volume>
+          <fpage>1301</fpage>
+          <lpage>12</lpage>
+          <pub-id pub-id-type="pmid">10485502</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0149-2918(99)80031-9</pub-id>
+        </citation>
+      </ref>
+      <ref id="B39">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kiersch</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Halladay</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Koschik</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>A double-blind, randomized study of naproxen sodium, ibuprofen, and placebo in postoperative dental pain</article-title>
+          <source>Clinical Therapeutics</source>
+          <year>1993</year>
+          <volume>15</volume>
+          <fpage>845</fpage>
+          <lpage>54</lpage>
+          <pub-id pub-id-type="pmid">8269451</pub-id>
+        </citation>
+      </ref>
+      <ref id="B40">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kiersch</surname>
+              <given-names>TA</given-names>
+            </name>
+            <name>
+              <surname>Halladay</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Hormel</surname>
+              <given-names>PC</given-names>
+            </name>
+          </person-group>
+          <article-title>A single-dose, double-blind comparison of naproxen sodium, acetaminophen, and placebo in postoperative dental pain</article-title>
+          <source>Clinical Therapeutics</source>
+          <year>1994</year>
+          <volume>16</volume>
+          <fpage>394</fpage>
+          <lpage>404</lpage>
+          <pub-id pub-id-type="pmid">7923306</pub-id>
+        </citation>
+      </ref>
+      <ref id="B41">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mahler</surname>
+              <given-names>DL</given-names>
+            </name>
+            <name>
+              <surname>Forrest</surname>
+              <given-names>WH</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>CR</given-names>
+            </name>
+            <name>
+              <surname>Shroff</surname>
+              <given-names>PF</given-names>
+            </name>
+            <name>
+              <surname>Gordon</surname>
+              <given-names>HE</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>BW</given-names>
+            </name>
+            <name>
+              <surname>James</surname>
+              <given-names>KE</given-names>
+            </name>
+          </person-group>
+          <article-title>Assay of Aspirin and naproxen analgesia</article-title>
+          <source>Clinical Pharmacology and Therapeutics</source>
+          <year>1976</year>
+          <volume>19</volume>
+          <fpage>18</fpage>
+          <lpage>23</lpage>
+          <pub-id pub-id-type="pmid">1106936</pub-id>
+        </citation>
+      </ref>
+      <ref id="B42">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reicin</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Jove</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>deAndrade</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Bourne</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Krupa</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Walters</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Seidenberg</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficacy of single-dose and multidose rofecoxib in the treatment of post-orthopedic surgery pain</article-title>
+          <source>American Journal of Orthopedics</source>
+          <year>2001</year>
+          <volume>30</volume>
+          <fpage>40</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">11198829</pub-id>
+        </citation>
+      </ref>
+      <ref id="B43">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Edwards</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Oldman</surname>
+              <given-names>AD</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Carroll</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Wiffen</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>McQuay</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title>Oral aspirin in postoperative pain: a quantitative systematic review</article-title>
+          <source>Pain</source>
+          <year>1999</year>
+          <volume>81</volume>
+          <fpage>289</fpage>
+          <lpage>97</lpage>
+          <pub-id pub-id-type="pmid">10431716</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0304-3959(99)00022-6</pub-id>
+        </citation>
+      </ref>
+      <ref id="B44">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Collins</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>McQuay</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Wiffen</surname>
+              <given-names>PJ</given-names>
+            </name>
+          </person-group>
+          <article-title>Oral ibuprofen and diclofenac in postoperative pain: a quantitative systematic review</article-title>
+          <source>European Journal of Pain</source>
+          <year>1998</year>
+          <volume>2</volume>
+          <fpage>285</fpage>
+          <lpage>91</lpage>
+          <pub-id pub-id-type="pmid">10700324</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S1090-3801(98)90027-1</pub-id>
+        </citation>
+      </ref>
+      <ref id="B45">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moore</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Collins</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Carroll</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>McQuay</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Paracetamol with and without codeine in acute pain: a quantitative systematic review</article-title>
+          <source>Pain</source>
+          <year>1997</year>
+          <volume>70</volume>
+          <fpage>193</fpage>
+          <lpage>201</lpage>
+          <pub-id pub-id-type="pmid">9150293</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0304-3959(96)03319-2</pub-id>
+        </citation>
+      </ref>
+      <ref id="B46">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barden</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>McQuay</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title>Single-dose rofecoxib for acute postoperative pain in adults: a quantitative systematic review</article-title>
+          <source>NHS Centre for Reviews and Dissemination BMC Anesthesiology</source>
+          <year>2002</year>
+          <volume>2</volume>
+          <fpage>4</fpage>
+          <pub-id pub-id-type="doi">10.1186/1471-2253-2-4</pub-id>
+        </citation>
+      </ref>
+      <ref id="B47">
+        <citation citation-type="other">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barden</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>McQuay</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title>Pain and analgesic response after third molar extraction and other postsurgical pain</article-title>
+          <source>Pain</source>
+          <comment/>
+        </citation>
+      </ref>
+      <ref id="B48">
+        <citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Edwards</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>McQuay</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Collins</surname>
+              <given-names>SL</given-names>
+            </name>
+          </person-group>
+          <article-title>Reporting of adverse effects in clinical trials should be improved. Lessons from acute postoperative pain</article-title>
+          <source>Journal of Pain and Symptom Management</source>
+          <year>1999</year>
+          <volume>18</volume>
+          <fpage>427</fpage>
+          <lpage>37</lpage>
+          <pub-id pub-id-type="pmid">10641469</pub-id>
+          <pub-id pub-id-type="doi">10.1016/S0885-3924(99)00093-7</pub-id>
+        </citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>
