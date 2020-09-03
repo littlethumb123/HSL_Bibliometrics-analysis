@@ -1,6 +1,6 @@
 ## Retrieving Records from PubMed with Python
 
-Multiple ways to access to Entrez database [1](#_ftn1) with python. E-utilities, entrezpy, request by url and parse xml files. 
+Two ways to access to Entrez database [1](#_ftn1) with python. E-utilities and entrezpy. 
 
 ### E-utilities 
 
