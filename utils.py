@@ -1,8 +1,138 @@
 from Bio import Entrez
 import xml.etree.ElementTree as ET
+from lxml import html
+import requests
+import time
+import random
+from collections import deque
+import io
+import pandas as pd
 # reference: https://github.com/titipata/pubmed_parser/blob/master/pubmed_parser/pubmed_oa_parser.py
 
-Entrez.email = "poppincorngofurther@gmail.com"
+Entrez.email = "hslexample@gmail.com"
+user_agent_list = [
+   #Chrome
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36',
+    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+    'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36',
+    #Firefox
+    'Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)',
+    'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko',
+    'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)',
+    'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
+    'Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko',
+    'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+    'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)',
+    'Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko',
+    'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)',
+    'Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko',
+    'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)',
+    'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)',
+    'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)'
+]
+
+def XML_request(pmids):
+    """
+    Request data from entrez using request method
+    param: pmid or a list of pmid
+    :return: a dictionary of pmid: html_tree
+    """
+    PMD_LINK = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&retmode=xml&id={}"
+    full_xml = {}
+    if isinstance(pmids, list) and pmids:
+        dq = deque(pmids)
+        while dq:
+            pmid = dq.popleft()
+            try:
+                resp = requests.get(PMD_LINK.format(pmid), headers={'user-agent': random.choice(user_agent_list)})
+                full_xml[pmid] = html.fromstring(resp.content)
+            except Exception as e:
+                if not isinstance(e, requests.exceptions.RequestException):
+                    print("ERROR {}: {}".format(pmid, e))
+                dq.append(pmid)
+        print('%d records left\r'%len(dq), end = "")
+        time.sleep(1)
+    elif isinstance(pmids, str):
+        resp = requests.get(PMD_LINK.format(pmids), headers={'user-agent': random.choice(user_agent_list)})
+        full_xml[pmids] = html.fromstring(resp.content)
+    else:
+        raise TypeError("Please import single pmid or pmid list")
+
+    return full_xml
+
+
+def parse_handle(handle):
+    """
+    parse handle returned by efetch with xml format
+    :param: handle, entrez handle object
+    :return: df, dataframe having publication data
+
+    """
+
+
+    if not isinstance(handle, io.TextIOWrapper):
+        raise TypeError("Input should be handle object")
+
+    if not fetchrecords['PubmedArticle']:
+        raise ValueError("File is empty")
+
+    records = Entrez.read(handle)
+    df = pd.DataFrame(columns=COLUMN)
+    for i in fetchrecords['PubmedArticle']:
+
+        rec = i['MedlineCitation']
+        rec_art = rec['Article']
+
+        au_list = [au_af['ForeName'] + " " + au_af['LastName']
+                   if au_af['ForeName'] and au_af['ForeName'] else "name NA"
+                   for au_af in rec_art['AuthorList']]
+        aff_list = [au_af['AffiliationInfo'][0]['Affiliation']
+                    if au_af['AffiliationInfo'][0] else "affiliation NA"
+                    for au_af in rec_art['AuthorList']]
+
+        pmid = "PMID NA"
+        if rec['PMID']:
+            pmid = rec['PMID']
+
+        title = "title NA"
+        if rec_art['ArticleTitle']:
+            title = rec_art['ArticleTitle']
+
+        date = "Date NA"
+        if rec_art['ArticleDate']:
+            date = rec_art['ArticleDate'][0]['Month'] + \
+                   "/" + rec_art['ArticleDate'][0]['Day'] + \
+                   "/" + rec_art['ArticleDate'][0]['Year']
+
+        abstract = "Abstract NA"
+        if 'Abstract' in rec_art.keys():
+            abstract = rec_art['Abstract']['AbstractText']
+
+        keywords = "Keywords NA"
+        if rec['KeywordList']:
+            keywords = "; ".join(j for j in rec['KeywordList'][0])
+        rec_dict = {
+            "PMID": pmid,
+            "TI": title,
+            "AB": abstract,
+            "PD": date,
+            "AU": "; ".join(j for j in au_list),
+            "AF": "; ".join(j for j in aff_list),
+            "KW": keywords
+        }
+
+        df = df.append(rec_dict, ignore_index=True)
+        print("Data are ready to export")
+    return df
+
+
 
 def retrieve_affil(pmcid):
     '''
@@ -11,10 +141,10 @@ def retrieve_affil(pmcid):
     
     para: input the pubmed central id of the article which miss affiliation information
     return: return a dictionary, e.g., 
-        {"forename": "ret_from_pmc",
-         "firstname": firstname,
-         "lastname": lastname, 
-         "affiliation": a list of affiliation of the current author}
+            {"forename": "ret_from_pmc",
+             "firstname": firstname,
+             "lastname": lastname,
+             "affiliation": a list of affiliation of the current author}``
     
     Note: limits to access api
     Any site (IP address) posting more than 3 requests per second to the E-utilities 
