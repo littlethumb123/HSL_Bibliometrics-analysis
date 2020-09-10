@@ -158,7 +158,7 @@ def retrieve_affil(pmcid):
         fetch_handle = Entrez.efetch(db="pmc", id = pmcid, retmode="xml") 
         record = fetch_handle.read()  # a dictionary with xml structure
     except ValueError:
-        print("The pmc_id is empty")
+        raise ValueError("The pmc_id is empty")
     
     tree = ET.fromstring(record)
     tree.findall(".")

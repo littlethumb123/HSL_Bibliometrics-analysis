@@ -1,7 +1,6 @@
 import pandas as pd
 import re
 import traceback
-
 '''
 The script aims to parse affiliation information exported publication databases. For example, 
 the "birmingham acute care research group, institute of inflammation and ageing, college of medical and dental sciences, university of birmingham, birmingham, uk"
@@ -236,7 +235,7 @@ def match_org(address_token):
     return addre_dict, unrecognize_list, find_org
 
 
-# Example
+# run Example
 def main():
 
     address = "birmingham acute care research group, institute of inflammation and ageing, college of medical and dental sciences, university of birmingham, birmingham, uk"
@@ -245,22 +244,7 @@ def main():
     print(address_dict)
 
 if __name__=="__main__": 
-    main() 
-
-# Output: 
-# {'unrecognizable': '', 
-	# 'univ': 'university of birmingham', 
-	# 'asct': '', 
-	# 'co.': '', 
-	# 'hosp': '', 
-	# 'sch': '', 
-	# 'ctr': '', 
-	# 'clg': 'college of medical and dental sciences', 
-	# 'inst': 'institute of inflammation and ageing', 
-	# 'dpt_pgm': '', 
-	# 'div': 'birmingham acute care research group', 
-	# 'region': 'birmingham', 
-	# 'country': 'united kingdom'}
+    main()
 
 
 
