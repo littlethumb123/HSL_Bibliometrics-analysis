@@ -78,8 +78,8 @@ def main():
             xml_text = full_xml[pmc]
             match = re.findall(RE_MATCH, xml_text)
             if len(match)>0:
-                # get the markers of R
-                df_R.at[pmc, "R"] = [i[1] for i in match]
+                # get the markers of R, context prior to and post to the matched part
+                df_R.at[pmc, "R"] = [" | ".join([i[0], i[1], i[2]]) for i in match]
                 df_R.at[pmc, "use_R"] = 1
             else:
                 df_R.at[pmc, "use_R"] = 0
