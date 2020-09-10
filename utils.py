@@ -223,7 +223,7 @@ def retrieve_affil(pmcid):
                                         "affiliation": aff_of_this_auth})
 
         except AttributeError as error:
-             print("     There might be something wrong with Nonetype find", error)
+            print("     There might be something wrong with Nonetype find", error)
 #             print("     author.find('name/given-names').text: ", author.find('name/given-names'))
 #             print("     author.find('name/surname').text: ", author.find('name/surname'),)
             author_aff_mapping_list.append({"firstname": "ret_from_pmc",
