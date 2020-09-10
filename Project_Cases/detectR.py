@@ -7,18 +7,15 @@ import time
 import random
 from collections import deque
 from utils import user_agent_list  # import browser to iteratively access pubmed database server
+from bs4 import BeautifulSoup
 
 # Regex expression to find R; or add other targets regular expression
-RE_MATCH = r"([A-Za-z ]*(<(?:kbd|em)>R<(?:\/em|\/kbd)>|R: A language and environment for statistical computing" \
-           r"| R[,]?[ \n](?:[(]?[Vv](?:ersion)?)?[ (]?[0-9.]{1,5}|R[\n ][Ss]tatistical software|R[\n ]Foundation" \
-           r"|R[- \n][Ss]tudio|R[- \n][Ll]ibrary|R[- \n][Ll]ibraries|R[- \n][Pp]ackage|R[- \n][Pp]rogram|R[- \n][Ss]cript|" \
-           r"R[- \n][Ss]oftware|R[- \n][Cc]ore [Tt]eam|R[- \n][Cc]ode)[A-Za-z ,]*)"
-
+RE_MATCH = r"([^\s]{0,40}[ \(\{]?)(R: A[ \n][Ll]anguage[ \n]and[ \n][Ee]nvironment| R[,]?[ \n](?:[(]?[Vv](?:ersion)?)?[ (]?\d\.\d{1,2}\.\d|R[\n ][Ss]tatistical software|R[\n ]Foundation|R[- \n][Ss]tudio|R[- \n][Ll]ibrary|R[- \n][Ll]ibraries|R[- \n][Pp]ackage| R[- \n][Pp]rogram| R[- \n][Ss]cript| R[- \n][Ss]oftware|R[- \n][Cc]ore [Tt]eam|R[- \n][Cc]ode\)[A-Za-z ,]*|www\.R-project\.org|RStudio)([ \(\{]?[^\s]{0,40})"
 PMC_PATH = 'https://www.ncbi.nlm.nih.gov/pmc/articles/'
 AFFILIATION = ["Chapel Hill"]   # The target affiliations
 
 # the path to medline.text files
-FILE_PATH = 'data_sample/pmc_result_medline.txt'
+FILE_PATH = 'data_sample/pubmed-Rprogram-set.txt'
 
 
 
@@ -43,8 +40,8 @@ def main():
             rec_list_.append(record)
 
     # for demonstration, we get first 10 elements
-    pmc_list = deque(pmc_list_[:20])
-    rec_list = rec_list_[:20]
+    pmc_list = deque(pmc_list_[:10])
+    rec_list = rec_list_[:10]
 
     # create pandas for R and SAS detect
     df_R = pd.DataFrame(index=pmc_list, columns=["Target_Aff", "use_R", "R"])
@@ -58,7 +55,7 @@ def main():
         print('%d records left\r' % len(pmc_list), end="")
         try:
             resp = requests.get(PMC_PATH + pmc, headers={'user-agent': random.choice(user_agent_list)})
-            xml_text = str(resp.text)
+            xml_text = BeautifulSoup(resp.text, features="html.parser").get_text(" ", strip=True)
             full_xml[pmc] = xml_text
             p_bar.update(1)
         except Exception as e:
@@ -82,7 +79,7 @@ def main():
             match = re.findall(RE_MATCH, xml_text)
             if len(match)>0:
                 # get the markers of R
-                df_R.at[pmc, "R"] = [i[0] for i in match]
+                df_R.at[pmc, "R"] = [i[1] for i in match]
                 df_R.at[pmc, "use_R"] = 1
             else:
                 df_R.at[pmc, "use_R"] = 0
