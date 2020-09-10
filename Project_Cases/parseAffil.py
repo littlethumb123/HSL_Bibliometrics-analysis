@@ -246,6 +246,20 @@ def main():
 if __name__=="__main__": 
     main()
 
+# Output:
+#{'unrecognizable': '', 
+# 'univ': 'university of birmingham', 
+# 'asct': '',
+# 'co.': '', 
+# 'hosp': '', 
+# 'sch': '', 
+# 'ctr': '', 
+# 'clg': 'college of medical and dental sciences', 
+# 'inst': 'institute of inflammation and ageing', 
+# 'dpt_pgm': '', 
+# 'div': 'birmingham acute care research group', 
+# 'region': 'birmingham', 
+# 'country': 'united kingdom'}
 
 
 
