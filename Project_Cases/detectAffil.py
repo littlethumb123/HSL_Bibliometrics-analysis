@@ -18,7 +18,8 @@ target_uni = ["Johns Hopkins University",
               "North Carolina State University"]
 
 # import files to a dictionary of article info
-pubmed_dic  = pp.parse_medline_xml(path, author_list=True)  # here path is the xml file path, a placeholder here
+# here path is the xml file path, a placeholder here
+pubmed_dic  = pp.parse_medline_xml(path, author_list=True)
 #print(json.dumps(pubmed_dic, indent = 4))  #explore the parsed data if needed
 
 '''

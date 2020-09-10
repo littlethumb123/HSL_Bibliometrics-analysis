@@ -6,5 +6,8 @@ This is a repo for working pipelines for bibliometics analysis at Health Science
     2. Use of Entrezpy
 2. Project cases
     1. Detect usage of R in articles, check [detectR.py](link)
-    2. Find publications authored by particular affiliations, check [findAffil](link)
-    3. Parse the affiliation information into desired components, check [parseAffil](link)
+    2. Parse the affiliation information into desired components, check [parseAffil](link)
+    3. Find publications with missing affiliations, check [findAffil](link)(Coming soon). 
+    This project aims to fill the missing affiliation information of a publication by cross-check other 
+    publication databases. 
+    

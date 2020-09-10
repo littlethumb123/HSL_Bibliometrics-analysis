@@ -72,19 +72,19 @@ def parse_handle(handle):
     """
     parse handle returned by efetch with xml format
     :param: handle, entrez handle object
-    :return: df, dataframe having publication data
+    :return: df, dataframe having publication data with a column ["PMID", "TI", "AB", "AU", "AF", "PD", "KW"]
 
     """
-
+    column = ["PMID", "TI", "AB", "AU", "AF", "PD", "KW"]
 
     if not isinstance(handle, io.TextIOWrapper):
         raise TypeError("Input should be handle object")
 
+    fetchrecords = Entrez.read(handle)
     if not fetchrecords['PubmedArticle']:
         raise ValueError("File is empty")
 
-    records = Entrez.read(handle)
-    df = pd.DataFrame(columns=COLUMN)
+    df = pd.DataFrame(columns=column)
     for i in fetchrecords['PubmedArticle']:
 
         rec = i['MedlineCitation']
