@@ -9,4 +9,5 @@ It currently includes a tutorial for PubMed API to access Entrez databases and p
 2. Project cases
     1. Detect usage of R in resarch, check [code](https://github.com/littlethumb123/HSL_Bibliometrics-analysis/blob/master/Project_Cases/detectR.py), [video](https://youtu.be/_DjLQlS8HqA).  
     2. Parse the affiliation information into predefined categories, check [code](https://github.com/littlethumb123/HSL_Bibliometrics-analysis/blob/master/Project_Cases/parseAffil.py), [video](https://youtu.be/lJReKNft8v0)
-    3. Find publications with missing affiliaiton through cross-check over multiple publication databases, check [detectAffil.py](https://github.com/littlethumb123/HSL_Bibliometrics-analysis/blob/master/Project_Cases/detectAffil.py)
+    3. Find publications with missing affiliation, check [detectAffil.py](https://github.com/littlethumb123/HSL_Bibliometrics-analysis/blob/master/Project_Cases/detectAffil.py). This tool is currently developed and aims to 
+    check the missing records from other databases than PubMed. 
